@@ -1,0 +1,25 @@
+img{
+    max-width: 100%;
+}
+header{
+    background-color: #E3F2FD;
+}
+header img{
+    width: 50px;
+}
+/* bread cumbs  */
+.bread-cumb{
+    margin-top: 15px;
+}
+.bgcolor{
+    background-color: #E9ECEF;
+}
+/* carousel-item one  */
+.carousel-item img{
+    height: 500px;
+}
+
+footer p{
+    font-weight: 600;
+    margin-left: -12%;
+}
